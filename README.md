@@ -1,2 +1,4 @@
 # hellow-world
-Conociendo Git Hub
+
+
+Soy Sebastián Rey Leyes, estoy comenzando en el mundo de la programación. 
